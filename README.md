@@ -12,7 +12,7 @@ This repository contains the .NET **nanoFramework** implementation of the System
 
 | Component | Build Status | NuGet Package |
 |:-|---|---|
-| System.Runtime | [![Build Status](https://dev.azure.com/nanoframework/System.Runtime/_apis/build/status%2FSystem.Runtime?branchName=main)](https://dev.azure.com/nanoframework/System.Runtime/_build/latest?definitionId=103&branchName=main) | [![NuGet](https://img.shields.io/nuget/v/nanoFramework.System.Runtime.svg?label=NuGet&style=flat&logo=nuget)](https://www.nuget.org/packages/nanoFramework.System.Runtime/) |
+| System.Runtime | [![Build Status](https://dev.azure.com/nanoframework/System.Runtime/_apis/build/status%2FSystem.Runtime?branchName=main)](https://dev.azure.com/nanoframework/System.Runtime/_build/latest?definitionId=104&branchName=main) | [![NuGet](https://img.shields.io/nuget/v/nanoFramework.System.Runtime.svg?label=NuGet&style=flat&logo=nuget)](https://www.nuget.org/packages/nanoFramework.System.Runtime/) |
 
 ## System.Runtime usage
 
