@@ -1,5 +1,17 @@
 # Changelog
 
+## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/nanoFramework.System.Runtime/tree/HEAD)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/v1.0.4...HEAD)
+
+**Documentation and other chores:**
+
+- Update 1 NuGet dependencies [\#1](https://github.com/nanoframework/nanoFramework.System.Runtime/pull/1)
+
+## [v1.0.4](https://github.com/nanoframework/nanoFramework.System.Runtime/tree/v1.0.4) (2023-11-08)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/v1.0.2...v1.0.4)
+
 ## [v1.0.2](https://github.com/nanoframework/nanoFramework.System.Runtime/tree/v1.0.2) (2023-11-08)
 
 [Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/d210f59e83351d311c605cd26f22d69331ee50b3...v1.0.2)
