@@ -69,4 +69,3 @@
   </Target>
   <Import Project="..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.targets" Condition="Exists('..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.targets')" />
 </Project>
-
