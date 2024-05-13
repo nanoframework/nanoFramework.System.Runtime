@@ -4,13 +4,17 @@
 // ReSharper disable once CheckNamespace
 namespace System.Runtime.CompilerServices
 {
-#pragma warning disable CS1591 // Missing XML comment for publicly visible type or member
+    /// <summary>
+    /// Allows you to obtain the method or property name of the caller to the method.
+    /// </summary>
     [AttributeUsage(AttributeTargets.Parameter, Inherited = false)]
     public sealed class CallerMemberNameAttribute : Attribute
     {
+        /// <summary>
+        /// Initializes a new instance of the <see cref="CallerMemberNameAttribute"/> class.
+        /// </summary>
         public CallerMemberNameAttribute()
         {
         }
     }
-#pragma warning restore CS1591 // Missing XML comment for publicly visible type or member
 }
