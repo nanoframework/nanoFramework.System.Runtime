@@ -11,7 +11,7 @@ namespace System.Runtime.UnitTests
         public string Property => "Property value";
 
         [TestMethod]
-        public void CallerArgumentExpression_sets_ParameterName_from_field()
+        public void CallerArgumentExpressionSetsParameterNameFromField()
         {
             var sut = new CallerArgumentExpressionAttributeTests();
             const string expect = "sut.Field";
@@ -21,7 +21,7 @@ namespace System.Runtime.UnitTests
         }
 
         [TestMethod]
-        public void CallerArgumentExpression_sets_ParameterName_from_method_parameter()
+        public void CallerArgumentExpressionSetsParameterNameFromMethodParameter()
         {
             const string expect = "methodParameter";
             var actual = TestMethodParameter("Method parameter value");
@@ -30,7 +30,7 @@ namespace System.Runtime.UnitTests
         }
 
         [TestMethod]
-        public void CallerArgumentExpression_sets_ParameterName_from_null()
+        public void CallerArgumentExpressionSetsParameterNameFromNull()
         {
             const string expect = "null";
             var actual = TestCallerArgumentExpression(null);
@@ -39,7 +39,7 @@ namespace System.Runtime.UnitTests
         }
 
         [TestMethod]
-        public void CallerArgumentExpression_sets_ParameterName_from_property()
+        public void CallerArgumentExpressionSetsParameterNameFromProperty()
         {
             var sut = new CallerArgumentExpressionAttributeTests();
             const string expect = "sut.Property";
@@ -49,7 +49,7 @@ namespace System.Runtime.UnitTests
         }
 
         [TestMethod]
-        public void CallerArgumentExpression_sets_ParameterName_from_variable()
+        public void CallerArgumentExpressionSetsParameterNameFromVariable()
         {
             const string variableName = "Variable value";
             const string expect = nameof(variableName);

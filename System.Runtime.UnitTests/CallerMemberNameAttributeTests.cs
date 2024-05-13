@@ -7,9 +7,9 @@ namespace System.Runtime.UnitTests
     public class CallerMemberNameAttributeTests
     {
         [TestMethod]
-        public void CallerMemberNameAttribute_gets_caller_member_name()
+        public void CallerMemberNameAttributeGetsCallerMemberName()
         {
-            const string expect = nameof(CallerMemberNameAttribute_gets_caller_member_name);
+            const string expect = nameof(CallerMemberNameAttributeGetsCallerMemberName);
             var actual = TestCallerMemberName();
 
             Assert.AreEqual(expect, actual);
