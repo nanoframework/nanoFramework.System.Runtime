@@ -54,6 +54,8 @@ steps:
 - template: azure-pipelines-templates/class-lib-build.yml@templates
   parameters:
     sonarCloudProject: 'nanoframework_nanoFramework.System.Runtime'
+    runUnitTests: true
+    unitTestRunsettings: '$(System.DefaultWorkingDirectory)/System.Runtime.UnitTests/nano.runsettings'
 
 # step from template @ nf-tools repo
 # report error
@@ -62,4 +64,3 @@ steps:
     status: 'failure'
     webhookUrl: '$(DiscordWebhook)'
     message: ''
-
