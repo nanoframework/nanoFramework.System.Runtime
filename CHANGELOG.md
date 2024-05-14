@@ -1,8 +1,8 @@
 # Changelog
 
-## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/nanoFramework.System.Runtime/tree/HEAD)
+## [v1.0.11](https://github.com/nanoframework/nanoFramework.System.Runtime/tree/v1.0.11) (2024-05-14)
 
-[Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/v1.0.6...HEAD)
+[Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/v1.0.6...v1.0.11)
 
 **Implemented enhancements:**
 
