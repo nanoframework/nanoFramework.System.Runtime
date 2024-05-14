@@ -2,7 +2,15 @@
 
 ## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/nanoFramework.System.Runtime/tree/HEAD)
 
-[Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/v1.0.4...HEAD)
+[Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/v1.0.6...HEAD)
+
+**Implemented enhancements:**
+
+- Adding caller attributes [\#2](https://github.com/nanoframework/nanoFramework.System.Runtime/pull/2)
+
+## [v1.0.6](https://github.com/nanoframework/nanoFramework.System.Runtime/tree/v1.0.6) (2023-11-09)
+
+[Full Changelog](https://github.com/nanoframework/nanoFramework.System.Runtime/compare/v1.0.4...v1.0.6)
 
 **Documentation and other chores:**
 
