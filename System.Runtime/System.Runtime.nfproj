@@ -37,9 +37,6 @@
     </NFMDP_PE_ExcludeClassByName>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CallerArgumentExpressionAttribute.cs" />
-    <Compile Include="CallerMemberNameAttribute.cs" />
-    <Compile Include="NullableAttributes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
