@@ -4,6 +4,10 @@
 
 -----
 
+## ⚠️ This library is now deprecated and the APIs here have been moved to the Base Class Library [nanoFramework.CoreLibrary](https://github.com/nanoframework/CoreLibrary) (v1.16). You can safely remove the reference to this one. ⚠️
+
+-----
+
 # Welcome to the .NET **nanoFramework** System.Runtime Library repository
 
 This repository contains the .NET **nanoFramework** implementation of the System.Runtime class library.
